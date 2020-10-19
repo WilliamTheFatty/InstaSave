@@ -8,12 +8,10 @@ import sys
 print(''' 
 
 01001001 01101110 01110011 01110100 01100001 01010011 01100001 01110110 01100101 
-                        [Coded By Sameera Madushan]
+                        [Coded By William Ford]
 
 ''')
 
-#Function to check the internet connection
-#Got this from https://stackoverflow.com/a/24460981
 def connection(url='http://www.google.com/', timeout=5):
     try:
         req = requests.get(url, timeout=timeout)
