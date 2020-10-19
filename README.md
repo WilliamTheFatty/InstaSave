@@ -6,7 +6,7 @@
 - [x] Download Instagram Profile Pictures
 
 <p align="center">
-  <img width="100%" src="http://104.230.100.178/gifs/gifs/01.gif">
+  <img width="100%" src="demo/01.gif">
 </p>
 
 ## Git Installation
